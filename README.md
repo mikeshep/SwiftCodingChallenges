@@ -1,2 +1,2 @@
 # SwiftCodingChallenges
-contains solutions to the different problems referred to in the book swift coding challenges
+Contiene las soluciones a los problemas descrito en el libro *SwiftCodingChallenges*
