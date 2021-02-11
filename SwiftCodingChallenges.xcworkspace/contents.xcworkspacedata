@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:AreTheLettersUnique.playground">
+   </FileRef>
+   <FileRef
       location = "group:CondenseWithspace.playground">
    </FileRef>
    <FileRef
@@ -42,8 +45,5 @@
    </FileRef>
    <FileRef
       location = "group:isPalindrome.playground">
-   </FileRef>
-   <FileRef
-      location = "group:AreTheLettersUnique.playground">
    </FileRef>
 </Workspace>

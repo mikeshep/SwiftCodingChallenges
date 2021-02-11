@@ -18,6 +18,48 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>AreTheLettersUnique (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>45</integer>
+		</dict>
+		<key>AreTheLettersUnique (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>46</integer>
+		</dict>
+		<key>AreTheLettersUnique (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>47</integer>
+		</dict>
+		<key>AreTheLettersUnique (Playground) 6.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>78</integer>
+		</dict>
+		<key>AreTheLettersUnique (Playground) 7.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>79</integer>
+		</dict>
+		<key>AreTheLettersUnique (Playground) 8.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>80</integer>
+		</dict>
 		<key>AreTheLettersUnique (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -38,6 +80,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>29</integer>
+		</dict>
+		<key>Challenge (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>48</integer>
+		</dict>
+		<key>Challenge (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>49</integer>
+		</dict>
+		<key>Challenge (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>50</integer>
 		</dict>
 		<key>Challenge (Playground).xcscheme</key>
 		<dict>
@@ -60,6 +123,27 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>CondenseWithspace (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>51</integer>
+		</dict>
+		<key>CondenseWithspace (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>52</integer>
+		</dict>
+		<key>CondenseWithspace (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>53</integer>
+		</dict>
 		<key>CondenseWithspace (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -80,6 +164,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>23</integer>
+		</dict>
+		<key>CountTheCharacters (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>54</integer>
+		</dict>
+		<key>CountTheCharacters (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>55</integer>
+		</dict>
+		<key>CountTheCharacters (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>56</integer>
 		</dict>
 		<key>CountTheCharacters (Playground).xcscheme</key>
 		<dict>
@@ -144,6 +249,27 @@
 			<key>orderHint</key>
 			<integer>35</integer>
 		</dict>
+		<key>DuplicateSubsets (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>57</integer>
+		</dict>
+		<key>DuplicateSubsets (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>58</integer>
+		</dict>
+		<key>DuplicateSubsets (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>59</integer>
+		</dict>
 		<key>DuplicateSubsets (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -164,6 +290,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>17</integer>
+		</dict>
+		<key>FindPangrams (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>60</integer>
+		</dict>
+		<key>FindPangrams (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>61</integer>
+		</dict>
+		<key>FindPangrams (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>62</integer>
 		</dict>
 		<key>FindPangrams (Playground).xcscheme</key>
 		<dict>
@@ -207,6 +354,27 @@
 			<key>orderHint</key>
 			<integer>8</integer>
 		</dict>
+		<key>MyPlayground_+ (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>63</integer>
+		</dict>
+		<key>MyPlayground_+ (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>64</integer>
+		</dict>
+		<key>MyPlayground_+ (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>65</integer>
+		</dict>
 		<key>MyPlayground_+ (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -249,6 +417,27 @@
 			<key>orderHint</key>
 			<integer>26</integer>
 		</dict>
+		<key>StringISRotated (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>66</integer>
+		</dict>
+		<key>StringISRotated (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>67</integer>
+		</dict>
+		<key>StringISRotated (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>68</integer>
+		</dict>
 		<key>StringISRotated (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -269,6 +458,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>11</integer>
+		</dict>
+		<key>ThreeDifferentLetters (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>69</integer>
+		</dict>
+		<key>ThreeDifferentLetters (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>70</integer>
+		</dict>
+		<key>ThreeDifferentLetters (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>71</integer>
 		</dict>
 		<key>ThreeDifferentLetters (Playground).xcscheme</key>
 		<dict>
@@ -291,6 +501,27 @@
 			<key>orderHint</key>
 			<integer>20</integer>
 		</dict>
+		<key>VowelsAndConsonants (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>72</integer>
+		</dict>
+		<key>VowelsAndConsonants (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>73</integer>
+		</dict>
+		<key>VowelsAndConsonants (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>74</integer>
+		</dict>
 		<key>VowelsAndConsonants (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -311,6 +542,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>44</integer>
+		</dict>
+		<key>isPalindrome (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>75</integer>
+		</dict>
+		<key>isPalindrome (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>76</integer>
+		</dict>
+		<key>isPalindrome (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>77</integer>
 		</dict>
 		<key>isPalindrome (Playground).xcscheme</key>
 		<dict>
