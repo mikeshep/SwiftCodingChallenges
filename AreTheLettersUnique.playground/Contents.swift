@@ -1,4 +1,3 @@
-import UIKit
 /*: SwiftCodingChallenges
 
 # Challenge 1: ¿Las letras son únicas?
@@ -18,6 +17,7 @@ import UIKit
  * Tip n. ° 3: Los **Set**s  son como  **Array**s, excepto que no pueden contener elementos duplicados.
  * Tip n. ° 4: Puedes crear **Set**s a partir de **Array**s y **Array**s  a partir de **Set**s . Ambos tienen una propiedad de conteo.
  */
+import Foundation
 
 func isUniqueLetters(input: String) -> Bool {
   return Set(input).count == input.count

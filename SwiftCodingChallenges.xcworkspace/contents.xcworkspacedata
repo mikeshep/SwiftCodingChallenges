@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CondenseWithspace.playground">
+   </FileRef>
+   <FileRef
+      location = "group:MyPlayground_+.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ThreeDifferentLetters.playground">
+   </FileRef>
+   <FileRef
+      location = "group:MyPlayground.playground">
+   </FileRef>
+   <FileRef
+      location = "group:FindPangrams.playground">
+   </FileRef>
+   <FileRef
+      location = "group:VowelsAndConsonants.playground">
+   </FileRef>
+   <FileRef
+      location = "group:CountTheCharacters.playground">
+   </FileRef>
+   <FileRef
+      location = "group:StringISRotated.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Challenge.playground">
+   </FileRef>
+   <FileRef
+      location = "group:RemoveDuplicateLettersFromAString.playground">
+   </FileRef>
+   <FileRef
+      location = "group:DuplicateSubsets.playground">
+   </FileRef>
+   <FileRef
+      location = "group:DoTwoStringsContainTheSameCharacters.playground">
+   </FileRef>
+   <FileRef
+      location = "group:DoesOneStringContainAnother.playground">
+   </FileRef>
+   <FileRef
+      location = "group:isPalindrome.playground">
+   </FileRef>
+   <FileRef
+      location = "group:AreTheLettersUnique.playground">
+   </FileRef>
+</Workspace>
